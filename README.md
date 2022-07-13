@@ -3,10 +3,7 @@
 ## Ekran Görüntüleri
  
 <p float="left">
-<img src="https://user-images.githubusercontent.com/44132199/174092613-ed26566d-13b5-4271-9f27-c2fd717c84f1.png" width="234" height="506.4" />
-<img src="https://user-images.githubusercontent.com/44132199/174093452-49bfcd8e-d461-4c06-81ed-409d308caae4.png" width="234" height="506.4" />
-<img src="https://user-images.githubusercontent.com/44132199/174093730-a9106348-3bab-4b0a-a3e9-3fe7d01ccba9.png" width="234" height="506.4" />
-<img src="https://user-images.githubusercontent.com/44132199/174093791-197eda4c-1ea1-4f89-abc3-5160af6f54b2.png" width="234" height="506.4" />
-<img src="https://user-images.githubusercontent.com/44132199/174094794-042fee86-82e6-42fb-b8b5-713944541bcc.jpg" width="234" height="506.4" />
+<img src="https://user-images.githubusercontent.com/44132199/178778320-3068e73d-037a-4b2c-b11f-e9999aa481f1.png" width="234" height="506.4" />
+<img src="https://user-images.githubusercontent.com/44132199/178778331-9f0ecb84-01be-40f6-a212-884ff0589bc2.png" width="234" height="506.4" />
+<img src="https://user-images.githubusercontent.com/44132199/178778339-b9708836-7e65-4eee-bd36-5ec0bc096c35.png" width="234" height="506.4" /> 
 </p>
-
